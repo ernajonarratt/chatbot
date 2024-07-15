@@ -6,7 +6,7 @@ async def on_message(msg: Message):
         await msg.say('dong')
     .
 async def main():
-    bot = Wechaty()
+    bot = Wechaty().
     bot.on('message', on_message)
     await bot.start()
 .
