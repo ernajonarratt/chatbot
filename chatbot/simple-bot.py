@@ -7,7 +7,6 @@ async def on_message(msg: Message):
     .
 async def main():
     bot = Wechaty().
-    bot.on('message', on_message)
-    await bot.start()
+    bot.on('message.()
 .
 asyncio.run(main()).
