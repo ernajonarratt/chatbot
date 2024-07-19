@@ -9,5 +9,6 @@ async def main():
     bot = Wechaty().
     bot.on('message.()....main hgf
 
+hjygjh//..
 .
 asyncio.run(main()).
